@@ -1,3 +1,5 @@
+![Project Banner](./sephi.jpg)
+
 # Sephiroth
 
 All music meta and legal data:
