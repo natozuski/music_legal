@@ -65,27 +65,27 @@ ghost practitioner,6,Marble Floors,Summrs
 ghost practitioner,7,Miley Cyrus,che
 ghost practitioner,8,WASSUP/RATCHET,Playboi Carti,Lil Baby
 ghost practitioner,9,Margiela Steppin,Nine Vicious
-included & involved,01,99 problems remix,Nathaniel Ozuski,JAŸ-Z
+included & involved,01,99 problems remix,Nathaniel Ozuski,Jay-Z
 included & involved,02,BIRD IN THE KITCHEN,Nathaniel Ozuski
 included & involved,03,if i aint got you remix,Nathaniel Ozuski,Alicia Keys
 included & involved,04,Nephilim,Nathaniel Ozuski,Pagani, Westside Gunn
 included & involved,05,she a 10,Nathaniel Ozuski
 included & involved,06,Suna Suna No Mie,Nathaniel Ozuski, NAV
 included & involved,07,take my breath away,Nathaniel Ozuski,Trippie Redd,Skye Morales
-included & involved,08,the weather is hot asf freestyle,Nathaniel Ozuski, NAV, Billy Woods
+included & involved,08,the weather is hot asf freestyle,Nathaniel Ozuski, NAV, billy woods
 included & involved,09,twitteratfgirltmd,Nathaniel Ozuski, Lil Wayne, Jim Jones
-included & involved,10,12,Nathaniel Ozuski, Ian
+included & involved,10,12,Nathaniel Ozuski, ian
 included & involved,11,8,Nathaniel Ozuski, 2Hollis
 included & involved,12,world hunger freestyle,Nathaniel Ozuski, Yung Fazo, Kendrick Lamar, Westside Gunn
-included & involved,13,zeelooperz acapella,Nathaniel Ozuski, ZeelooperZ
-Kony Obama Davidson,1,3.5 remix,Nathaniel Ozuski,Ian
+included & involved,13,zeelooperz acapella,Nathaniel Ozuski, Zelooperz
+Kony Obama Davidson,1,3.5 remix,Nathaniel Ozuski,ian
 Kony Obama Davidson,1,Strug out Freestyle,Kevin McCall
-Kony Obama Davidson,2,never stop remix,Nathaniel Ozuski,Ian
+Kony Obama Davidson,2,never stop remix,Nathaniel Ozuski,ian
 Kony Obama Davidson,2,絶対？絶望？少女？ - Ultra? Despair? Girls?,Masafumi Takada
-Kony Obama Davidson,3,party so lit,Nathaniel Ozuski,Ian
-Kony Obama Davidson,4,Spiderman vs Electro,Nathaniel Ozuski,Ian
-Kony Obama Davidson,5,trillionaire,Nathaniel Ozuski,Ian, Skepta
-Kony Obama Davidson,6,figure it out remix,Nathaniel Ozuski,Ian, Nine Vicious
+Kony Obama Davidson,3,party so lit,Nathaniel Ozuski,ian
+Kony Obama Davidson,4,Spiderman vs Electro,Nathaniel Ozuski,ian
+Kony Obama Davidson,5,trillionaire,Nathaniel Ozuski,ian, Skepta
+Kony Obama Davidson,6,figure it out remix,Nathaniel Ozuski,ian, Nine Vicious
 MUSIC MAN,1,LIZARD PEOPLE / CLONES,Nathaniel Ozuski
 MUSIC MAN,2,IM FROM 3000BC,Nathaniel Ozuski
 MUSIC MAN,3,HSC Slowed And Reverb,Nathaniel Ozuski
