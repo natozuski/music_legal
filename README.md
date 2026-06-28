@@ -1,4 +1,4 @@
-![Project Banner](./sephi.jpg)
+![Project Banner](./sephiroth.ico)
 
 # Sephiroth
 
